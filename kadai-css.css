@@ -6,6 +6,8 @@ header {
 }
 
 #wrapper {
+    width: 1000px; 
+    display: grid;
     display: flex;
     justify-content: flex-start;
 }
@@ -25,3 +27,4 @@ footer {
     width: 1000px;
     background-color: #ffccff;
 }
+
